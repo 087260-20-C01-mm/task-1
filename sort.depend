@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1613659911 source:c:\users\04003\desktop\sort\main.cpp
+	<iostream>
+	"source.h"
+	<stdio.h>
+
+1613660246 c:\users\04003\desktop\sort\source.h
+
+1613659960 source:c:\users\04003\desktop\sort\source.cpp
+	"source.h"
+	<fstream>
+	<string.h>
+
